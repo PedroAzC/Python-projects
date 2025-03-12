@@ -1,3 +1,4 @@
-Hi i'm Pedro, a Eletronic Engeneering student at CEFET-RJ Brazil.   
+Electronic Engineer from CEFET-RJ with over 1 year of experience in data analytics, working with ETL pipelines,
+report and dashboard creation, automation, and maintenance using Python, SQL, Excel, and Power BI.
 This is where i'll upload all my python projects.
-Feel free to use it in any way. 
+
